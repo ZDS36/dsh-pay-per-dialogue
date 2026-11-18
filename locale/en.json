@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Usage & Balance",
+    "description": "Shows the account balance in the composer, each conversation's estimated cost and token use, and a workspace's total on hover."
+  }
+}

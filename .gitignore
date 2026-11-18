@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+.npmrc
+*.log
+*.bak
+*.bak-*
+.backups/
+.local-backups/
+*.tgz
+*.pem
+*.key
+.credentials.*
+credentials.*
